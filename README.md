@@ -56,7 +56,7 @@
 ---
 
 ### **🚀 My GitHub Stats:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shangaric&theme=radical&hide_border=true)  
+
 ![Shangari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shangaric&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shangaric&layout=compact&theme=radical&hide_border=true)  
 
@@ -73,11 +73,6 @@ ZephyrIDE is a powerful Integrated Development Environment (IDE) for drone simul
 
 🔧 **[OnlineOutpassGenerator](https://github.com/shangaric/OnlineOutpassGenerator)** - Online Outpass Generator 🚀
 The Online Outpass Generator is a digital system designed to streamline the outpass approval process for students and employees. It automates request submission, approval tracking, and status updates, reducing paperwork and delays. With real-time notifications and secure authentication, it ensures a hassle-free and efficient outpass management system. ✅🔐
-
----
-
-### **📈 Contribution Graph:**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shangaric&theme=radical)  
 
 ---
 
