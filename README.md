@@ -1,6 +1,6 @@
 ### Hi there, I'm **Shangari C**! 👋🚀
 
-![GitHub Banner](https://readme-typing-svg.herokuapp.com?size=25&color=F7B42C&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+GitHub!;CSE+Student+%7C+Tech+Enthusiast+%7C+Problem+Solver;Passionate+about+Coding+and+Innovation!;Exploring+DSA%2C+Cloud%2C+and+App+Development!)
+![GitHub Banner](https://readme-typing-svg.herokuapp.com?size=25&color=F7B42C&center=true&vCenter=true&width=700&height=40&lines=Welcome+to+my+GitHub!;CSE+Student+%7C+Tech+Enthusiast+%7C+Problem+Solver;Passionate+about+Coding+and+Innovation!;Exploring+DSA%2C+Cloud%2C+and+Web+App+Development!)
 
 ---
 
