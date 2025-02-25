@@ -5,7 +5,7 @@
 ---
 
 ### **🙋‍♀️ About Me:**  
-- 🎓 **CSE Student** | Tech Explorer  |
+- 🎓 ** CSE Student | Tech Explorer **
 - 💻 Passionate about **DSA, Cloud, FSD**  
 - 🚀 Love **Exploring AI/ML**  
 - 🏆 Competitive Coder at **LeetCode & CodeChef**  
@@ -70,6 +70,7 @@
 ### **🛠️ Noteworthy Projects:**  
 🚀 **[ZephyrIDE](https://github.com/shangaric/ZephyrIDE)** -ZephyrIDE: The Ultimate Drone Simulation IDE 🚀
 ZephyrIDE is a powerful Integrated Development Environment (IDE) for drone simulation, featuring Hardware-in-the-Loop (HIL) and Software-in-the-Loop (SIL) support. It enables real-time telemetry monitoring, helping developers test, debug, and optimize drone performance before deployment. With seamless simulation and precise diagnostics, ZephyrIDE ensures safer and more efficient UAV operations. 🚁✨ 
+
 🔧 **[OnlineOutpassGenerator](https://github.com/shangaric/OnlineOutpassGenerator)** - Online Outpass Generator 🚀
 The Online Outpass Generator is a digital system designed to streamline the outpass approval process for students and employees. It automates request submission, approval tracking, and status updates, reducing paperwork and delays. With real-time notifications and secure authentication, it ensures a hassle-free and efficient outpass management system. ✅🔐
 
