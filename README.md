@@ -7,7 +7,7 @@
 
 
 ### **🙋‍♀️ About Me:**  
-- 🎓 ** CSE Student | Tech Explorer **
+- 🎓 **CSE Student | Tech Explorer**
 - 💻 Passionate about **DSA, Cloud, FSD**  
 - 🚀 Love **Exploring AI/ML**  
 - 🏆 Competitive Coder at **LeetCode & CodeChef**  
