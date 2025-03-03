@@ -50,11 +50,6 @@
 
 ---
 
-### **🏆 GitHub Trophies:**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=shangaric&theme=radical&no-frame=true&column=4)  
-
----
-
 ### **🛠️ Noteworthy Projects:**  
 🚀 **[ZephyrIDE](https://github.com/shangaric/ZephyrIDE)** -ZephyrIDE: The Ultimate Drone Simulation IDE 🚀
 ZephyrIDE is a powerful Integrated Development Environment (IDE) for drone simulation, featuring Hardware-in-the-Loop (HIL) and Software-in-the-Loop (SIL) support. It enables real-time telemetry monitoring, helping developers test, debug, and optimize drone performance before deployment. With seamless simulation and precise diagnostics, ZephyrIDE ensures safer and more efficient UAV operations. 🚁✨ 
