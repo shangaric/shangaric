@@ -9,9 +9,8 @@
 ### **🙋‍♀️ About Me:**  
 - 🎓 **CSE Student | Tech Explorer**
 - 💻 Passionate about **DSA, Cloud, FSD**  
-- 🚀 Love **Exploring AI/ML**  
 - 🏆 Competitive Coder at **LeetCode & CodeChef**  
-- 🌍 Always learning and sharing tech insights!  
+
 
 ---
 ## 🔧 Tech Stack  
@@ -60,4 +59,4 @@ The Online Outpass Generator is a digital system designed to streamline the outp
 ---
 
 ### **🔥 Let's Build Something Awesome Together!**  
-💌 Want to collaborate? Reach out to me on **LinkedIn** or **Twitter/X**! 🚀
+💌 Want to collaborate? Reach out to me on **LinkedIn** or **X**! 🚀
